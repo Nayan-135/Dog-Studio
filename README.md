@@ -1,4 +1,4 @@
-# 🚀 React Project Name
+# 🚀 Dog-Studio
 
 A modern React application built using best practices, clean UI, and scalable architecture.
 
