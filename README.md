@@ -126,9 +126,8 @@ This project is licensed under the MIT License.
 👤 Author
 Your Name
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/Nayan-135
 
-LinkedIn: https://linkedin.com/in/your-profile
 
 ⭐ If you like this project, don’t forget to give it a star!
 
